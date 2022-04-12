@@ -67,7 +67,7 @@ import Grid from '@mui/material/Grid';
           </IconButton>
           </Grid>
           <Grid item xs={9}>
-          <Button variant="outlined">Place sensor</Button>
+          <Button variant="outlined">Place sensors</Button>
           </Grid>
         </Grid>
       </Paper>
